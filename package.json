@@ -1,0 +1,19 @@
+{
+  "name": "motoristastour",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ui:dev": "vite",
+    "ui:build": "vite build --outDir static --emptyOutDir false"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "leaflet": "1.9.4",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
