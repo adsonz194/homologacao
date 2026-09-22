@@ -1,0 +1,9 @@
+{
+  "name": "Iberostar The Club",
+  "short_name": "The Club",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071c34",
+  "theme_color": "#071c34",
+  "lang": "pt-BR"
+}
